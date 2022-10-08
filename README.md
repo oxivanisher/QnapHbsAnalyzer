@@ -1,0 +1,1 @@
+Analyzes QNAP HBS3 Logs for transferred files concerning size and files.
